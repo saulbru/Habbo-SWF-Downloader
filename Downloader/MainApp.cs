@@ -1,7 +1,5 @@
 ﻿// Credits to:
-// Matty Southall (Base)
-// Uber (Config Data)
-
+// Matty Southall (Original C# Base)
 using System;
 using System.IO;
 using System.Net;
